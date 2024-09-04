@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Matilha.BoardingBudget.Api", "Matilha.BoardingBudget.Api\Matilha.BoardingBudget.Api.csproj", "{6A4A930D-1B6A-46D0-925E-CA4FE3AA2955}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - Api", "1 - Api", "{03CEDDF7-4605-46DA-AD3A-C6850EFF31B0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3 - Domain", "3 - Domain", "{52A19280-6E71-4399-8E2B-BC98A4D75C56}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4 - Infrastructure", "4 - Infrastructure", "{0ED34436-2971-4B8D-A874-EC694F064686}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Matilha.BoardingBudget.Domain", "Matilha.BoardingBudget.Domain\Matilha.BoardingBudget.Domain.csproj", "{19CB8711-00B8-4491-ACEE-03A8AB2D6A90}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Matilha.BoardingBudget.Infrastructure", "Matilha.BoardingBudget.Infrastructure\Matilha.BoardingBudget.Infrastructure.csproj", "{1E4981C1-0232-471A-A7AB-395E65F1B11C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - Application", "2 - Application", "{4810F350-9829-4152-8286-D02FCD37349D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matilha.Boardind.Budget.Application", "Matilha.Boardind.Budget.Application\Matilha.Boardind.Budget.Application.csproj", "{6F1A7504-F3FD-4640-950A-62B9D4A67A42}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A4A930D-1B6A-46D0-925E-CA4FE3AA2955}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A4A930D-1B6A-46D0-925E-CA4FE3AA2955}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A4A930D-1B6A-46D0-925E-CA4FE3AA2955}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A4A930D-1B6A-46D0-925E-CA4FE3AA2955}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19CB8711-00B8-4491-ACEE-03A8AB2D6A90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19CB8711-00B8-4491-ACEE-03A8AB2D6A90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19CB8711-00B8-4491-ACEE-03A8AB2D6A90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19CB8711-00B8-4491-ACEE-03A8AB2D6A90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E4981C1-0232-471A-A7AB-395E65F1B11C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E4981C1-0232-471A-A7AB-395E65F1B11C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E4981C1-0232-471A-A7AB-395E65F1B11C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E4981C1-0232-471A-A7AB-395E65F1B11C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F1A7504-F3FD-4640-950A-62B9D4A67A42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F1A7504-F3FD-4640-950A-62B9D4A67A42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F1A7504-F3FD-4640-950A-62B9D4A67A42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F1A7504-F3FD-4640-950A-62B9D4A67A42}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{6A4A930D-1B6A-46D0-925E-CA4FE3AA2955} = {03CEDDF7-4605-46DA-AD3A-C6850EFF31B0}
+		{19CB8711-00B8-4491-ACEE-03A8AB2D6A90} = {52A19280-6E71-4399-8E2B-BC98A4D75C56}
+		{1E4981C1-0232-471A-A7AB-395E65F1B11C} = {0ED34436-2971-4B8D-A874-EC694F064686}
+		{6F1A7504-F3FD-4640-950A-62B9D4A67A42} = {4810F350-9829-4152-8286-D02FCD37349D}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {25E2E1E6-3E88-4A1C-9462-D92BF2BFBE4D}
+	EndGlobalSection
+EndGlobal

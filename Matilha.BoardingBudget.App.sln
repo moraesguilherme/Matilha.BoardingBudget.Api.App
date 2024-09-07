@@ -17,7 +17,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Matilha.BoardingBudget.Infr
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - Application", "2 - Application", "{4810F350-9829-4152-8286-D02FCD37349D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matilha.Boardind.Budget.Application", "Matilha.Boardind.Budget.Application\Matilha.Boardind.Budget.Application.csproj", "{6F1A7504-F3FD-4640-950A-62B9D4A67A42}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Matilha.Boardind.Budget.Application", "Matilha.Boardind.Budget.Application\Matilha.Boardind.Budget.Application.csproj", "{6F1A7504-F3FD-4640-950A-62B9D4A67A42}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
